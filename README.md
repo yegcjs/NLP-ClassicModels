@@ -1,1 +1,1 @@
-A possible solution to FudanNLP/nlpbeginner
+Implementation of classic NLP models.
